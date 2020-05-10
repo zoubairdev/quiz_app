@@ -1,10 +1,10 @@
-# practice1
+# quiz_app
 
-A new Flutter application.
+A simple Quiz app Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is my starting point to make series of Flutter applications.
 
 A few resources to get you started if this is your first Flutter project:
 
